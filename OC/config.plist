@@ -1349,7 +1349,7 @@ PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0,0x0)</key>
 			<key>Vault</key>
 			<string>Optional</string>
 			<key>ScanPolicy</key>
-			<integer>983299</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Tools</key>
 		<array>
